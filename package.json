@@ -1,9 +1,10 @@
 {
   "name": "apexcharts",
   "version": "1.0.0",
-  "description": "Demo of Apex Charts using Javascript",
+  "description": "Admin Analytics Dashboard Component using Apex Charts",
   "main": "server.js",
   "scripts": {
+    "start": "node server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
