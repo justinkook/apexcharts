@@ -1,0 +1,23 @@
+{
+  "name": "apexcharts",
+  "version": "1.0.0",
+  "description": "Demo of Apex Charts using Javascript",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justinkook/apexcharts.git"
+  },
+  "author": "Justin Kook",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justinkook/apexcharts/issues"
+  },
+  "homepage": "https://github.com/justinkook/apexcharts#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.3.4"
+  }
+}
