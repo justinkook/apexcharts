@@ -5,4 +5,4 @@ npm i to install express and mongoose
 
 Future:
 
-link charts to database and external api data
+link charts to mongo database and external api data
